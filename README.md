@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codysuzz
-- 👀 I’m interested in 3D Printing, Mechanical Design, Making
-- 🌱 I’m currently learning more about 3D Printing as well as dabbling in programming from the Odin Project.
+- 👀 I’m interested in 3D Printing, Mechanical Design, and Elecronics
+- 🌱 I’m currently learning more about 3D Printing as well as dabbling in programming.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... message me on instagram! Link in bio
 
