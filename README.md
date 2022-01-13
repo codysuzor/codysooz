@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @codysooz
+- 👋 Hi, I’m Cody
 - 👀 I’m interested in 3D Printing, Mechanical Design, and Electronics
 - 🌱 I’m currently learning more about 3D Printing as well as dabbling in programming.
 - 💞️ I’m looking to collaborate on ...
